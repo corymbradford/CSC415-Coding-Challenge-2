@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coding Challenge 2</string>
+    <string name="add_item_btn">Add Item</string>
+    <string name="apples_button">Apples</string>
+    <string name="bananas_button">Bananas</string>
+    <string name="yogurt_button">Yogurt</string>
+    <string name="cookies_button">Cookies</string>
+    <string name="bread_button">Bread</string>
+    <string name="eggs_button">Eggs</string>
+    <string name="milk_button">Milk</string>
+    <string name="rice_button">Rice</string>
+    <string name="coffee_button">Coffee</string>
+    <string name="salad_button">Salad</string>
+</resources>
